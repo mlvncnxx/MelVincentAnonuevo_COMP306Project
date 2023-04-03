@@ -26,7 +26,7 @@ namespace MelVincentAnonuevo_COMP306Project.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source=database-1.ce8lqueajana.us-east-1.rds.amazonaws.com,1433;database=JoshuaKunwooDB;User ID=admin;Password=password;");
+                optionsBuilder.UseSqlServer("Data Source=database-1.ce8lqueajana.us-east-1.rds.amazonaws.com,1433;database=MelVincentDB;User ID=admin;Password=password;");
             }
         }
 
