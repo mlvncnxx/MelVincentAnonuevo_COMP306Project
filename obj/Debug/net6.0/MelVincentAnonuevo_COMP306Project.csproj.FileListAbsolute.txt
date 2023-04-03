@@ -1,0 +1,7 @@
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.csproj.AssemblyReference.cache
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.AssemblyInfoInputs.cache
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.AssemblyInfo.cs
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.csproj.CoreCompileInputs.cache
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.MvcApplicationPartsAssemblyInfo.cs
+E:\Centennial College\Winter 2023\COMP 306\Project\MelVincentAnonuevo_COMP306Project\obj\Debug\net6.0\MelVincentAnonuevo_COMP306Project.MvcApplicationPartsAssemblyInfo.cache

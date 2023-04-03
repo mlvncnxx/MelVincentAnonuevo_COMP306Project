@@ -1,5 +1,12 @@
 ﻿using MelVincentAnonuevo_COMP306Project.Models;
+using MelVincentAnonuevo_COMP306Project.Services;
+using MelVincentAnonuevo_COMP306Project.DTOs;
+using System;
+using System.Collections.Generic;
+
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using AutoMapper;
 
 namespace MelVincentAnonuevo_COMP306Project.Controllers
 {
