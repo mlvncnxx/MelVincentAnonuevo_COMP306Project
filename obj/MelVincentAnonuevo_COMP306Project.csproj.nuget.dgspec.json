@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Centennial College\\Winter 2023\\COMP 306\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj": {}
+    "E:\\Centennial College\\Winter 2023\\COMP 306\\Project\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj": {}
   },
   "projects": {
-    "E:\\Centennial College\\Winter 2023\\COMP 306\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj": {
+    "E:\\Centennial College\\Winter 2023\\COMP 306\\Project\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Centennial College\\Winter 2023\\COMP 306\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj",
+        "projectUniqueName": "E:\\Centennial College\\Winter 2023\\COMP 306\\Project\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj",
         "projectName": "MelVincentAnonuevo_COMP306Project",
-        "projectPath": "E:\\Centennial College\\Winter 2023\\COMP 306\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj",
+        "projectPath": "E:\\Centennial College\\Winter 2023\\COMP 306\\Project\\MelVincentAnonuevo_COMP306Project\\MelVincentAnonuevo_COMP306Project.csproj",
         "packagesPath": "C:\\Users\\melvi\\.nuget\\packages\\",
-        "outputPath": "E:\\Centennial College\\Winter 2023\\COMP 306\\MelVincentAnonuevo_COMP306Project\\obj\\",
+        "outputPath": "E:\\Centennial College\\Winter 2023\\COMP 306\\Project\\MelVincentAnonuevo_COMP306Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,9 +45,29 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
